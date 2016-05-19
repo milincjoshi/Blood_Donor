@@ -1,0 +1,16 @@
+﻿body {
+}
+
+.marginTop10 { margin-top:10%; }
+.marginTop2 { margin-top:2%; }
+.padding2 { padding:2%;}
+.colorRed { color:#F44336; }
+
+.fontSize100 { font-size:100%;}
+.fontSize50 { font-size:50%;}
+.fontSize1em { font-size:1em;}
+.fontSizeOneHalfem { font-size:1.5em;}
+.fontSize2em { font-size:2em;}
+.fontSize3em { font-size:3em;}
+.fontSize4em { font-size:4em;}
+.fontSize5em { font-size:5em;}
